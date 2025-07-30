@@ -1,3 +1,5 @@
+# Assignment 3 DEPI
+
 # Student Management System
 
 The Student Management System is a Java-based application that allows you to manage student information, including their name, age, and GPA. The system provides functionality to create new students, display their information, and study their progress based on their GPA.
